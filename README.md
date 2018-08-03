@@ -1,16 +1,15 @@
 # Spring-Boot-MongoDB
-```
-- Como executar a aplicação
-Certifique-se de ter o Spring Tool Suite instalado , assim como o Git.
 
+# Como executar a aplicação
+Certifique-se de ter o Spring Tool Suite instalado , assim como o Git.
+```
 git clone https://github.com/michaeltrindade/Spring-Boot-MongoDB
 
 # Importando o projeto no Spring Tool Suite (STS)
 Com STS aberto, importe o projeto como projeto Maven, File --> Import --> Maven --> Projeto Maven Existente
-
+```
 
 Acesse http://localhost:8080/usuarios
-
 
 # APIs endpoints
 GET http://localhost:8080/usuarios [lista todos os usuarios]  
